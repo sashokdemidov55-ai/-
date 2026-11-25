@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Autoplay Player",
+  "description": "Автоматичне відтворення відеофайлу при відкритті головного екрана на базі HTML5 video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
